@@ -1,6 +1,6 @@
 # 📌 Patika.dev+ Full Stack Bootcamp
 
-Merhaba! 👋 Ben **Halenur İncedere**, bu repo [Patika.dev](https://www.patika.dev) platformunda aldığım **8 aylık Full Stack Bootcamp** sürecinde öğrendiğim dersleri, yaptığım ödevleri ve geliştirdiğim projeleri içerir. Amacım, yazılım geliştirme yeteneklerimi geliştirerek profesyonel bir Full Stack Developer olmaktır.
+Merhaba! 👋 Ben **Halenur İncedere**, [Patika.dev](https://www.patika.dev) platformunda aldığım **8 aylık Full Stack Bootcamp** sürecinde öğrendiğim dersleri, yaptığım ödevleri ve geliştirdiğim projeleri içerir. Amacım, yazılım geliştirme yeteneklerimi geliştirerek profesyonel bir Full Stack Developer olmaktır.
 
 ---
 
@@ -31,11 +31,6 @@ Merhaba! 👋 Ben **Halenur İncedere**, bu repo [Patika.dev](https://www.patika
 
 ---
 
-## 🛠️ Reponun Kullanımı
-
-Bu repoda her hafta tamamladığım ödev ve projeler ayrı klasörler altında yer alacak.
-
----
 
 ## 📫 Bana Ulaşın
 
